@@ -1,2 +1,1 @@
-# EOCube_web_bonitare
-
+# EOCube_web_land_suitability
